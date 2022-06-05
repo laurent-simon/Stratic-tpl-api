@@ -1,3 +1,3 @@
 # Stratic-tpl-api
 
-[Stratic-tpl templating library](../Stratic-tpl) API documentation.
+[Stratic-tpl templating library](https://github.com/laurent-simon/Stratic-tpl) API documentation.
