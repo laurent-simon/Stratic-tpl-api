@@ -1,2 +1,3 @@
 # Stratic-tpl-api
-Stratic-tpl javadoc
+
+[Stratic-tpl templating library](../Stratic-tpl) API documentation.
